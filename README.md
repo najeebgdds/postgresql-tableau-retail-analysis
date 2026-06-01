@@ -8,6 +8,17 @@ The project demonstrates data engineering, dimensional modeling, SQL analysis, a
 
 ---
 
+## Repository Structure
+
+- data_raw/ – Raw and cleaned source datasets
+- notebooks/ – Python notebooks for data cleaning, validation, and dimensional modeling
+- sql/ – SQL scripts for staging, validation, dimensional modeling, and analysis
+- tableau/ – Final Tableau workbook
+- tab_exports/ – Exported dataset used for Tableau dashboards
+- images/ – Dashboard screenshots used in documentation
+
+---
+
 ## Business Problem
 
 Retail organizations often generate large volumes of transactional data but struggle to convert that data into actionable business insights.
@@ -203,8 +214,8 @@ Validation checks were performed throughout the project to ensure data quality a
 
 ## Project Links
 
-- Tableau Public Dashboard: []
-- GitHub Repository: []
+- Tableau Public Dashboard: [https://public.tableau.com/app/profile/najeeb.ullah1185/viz/Superstore_Portfolio_Project_twbx/CustomerProfitabilityAnalysis]
+- GitHub Repository: [https://github.com/najeebgdds/postgresql-tableau-retail-analysis]
 
 ---
 
